@@ -3,15 +3,15 @@ This project is a real-time stock market dashboard built using Power BI with dat
 
 Key Features:
 
-	•	Real-time data ingestion using Apache Kafka to stream stock data into MySQL.
-	•	Interactive Power BI dashboard with live updates from MySQL for visualizing stock trends.
-	•	Integration of Yahoo Finance API for fetching stock data.
-	•	Demonstrates skills in data engineering, real-time streaming, and data visualization.
+•	Real-time data ingestion using Apache Kafka to stream stock data into MySQL.
+•	Interactive Power BI dashboard with live updates from MySQL for visualizing stock trends.
+•	Integration of Yahoo Finance API for fetching stock data.
+•	Demonstrates skills in data engineering, real-time streaming, and data visualization.
 
 Technologies:
 
-	•	Apache Kafka
-	•	MySQL
-	•	Power BI
-	•	Yahoo Finance API
-	•	Python
+•	Apache Kafka
+•	MySQL
+•	Power BI
+•	Yahoo Finance API
+•	Python
